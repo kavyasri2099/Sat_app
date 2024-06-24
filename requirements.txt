@@ -1,2 +1,8 @@
 joblib
-sklearn
+streamlit
+numpy
+pandas
+scikit-learn
+Pillow
+seaborn
+matplotlib
